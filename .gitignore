@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Local test / scratchpad files
+fotorafbasmasi.py
+streamlit_2.py
+
+# OS Metadata
+.DS_Store
+Thumbs.db
